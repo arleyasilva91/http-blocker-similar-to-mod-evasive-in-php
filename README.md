@@ -53,9 +53,7 @@ File modified for blocking:
 /home/USER/public_html/.htaccess
 
 Example of content generated in the .htaccess file:
-
 #Auto bloqueio
-
 Deny from 192.168.1.100
 Deny from 203.0.113.45
 
