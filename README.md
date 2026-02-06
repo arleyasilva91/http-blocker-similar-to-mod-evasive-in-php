@@ -54,7 +54,7 @@ File modified for blocking:
 
 Example of content generated in the .htaccess file:
 
-# Auto bloqueio
+#Auto bloqueio
 
 Deny from 192.168.1.100
 Deny from 203.0.113.45
@@ -152,7 +152,7 @@ Arquivo modificado para bloqueio:
 
 Exemplo de conteúdo gerado no .htaccess:
 
-# Auto bloqueio
+#Auto bloqueio
 Deny from 192.168.1.100
 Deny from 203.0.113.45
 
